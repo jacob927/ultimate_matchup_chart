@@ -12,3 +12,9 @@ Steps I will take
     Determine statistical significance.
 5. **Visualization**: Create the viz in a large table. Possibly use Tableau to make the data interactive.
 6. **Make Money**
+
+
+What is the point: I want to. It will help me learn data science
+
+
+
